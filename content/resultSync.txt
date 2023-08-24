@@ -1,0 +1,4 @@
+This is how you writeFile synchronously,
+Here is the result Hey there,  this is the first text file!, Hey there,  this is the second text file!This is how you writeFile synchronously,
+Here is the result Hey there,  this is the first text file!, Hey there,  this is the second text file!This is how you writeFile synchronously,
+Here is the result Hey there,  this is the first text file!, Hey there,  this is the second text file!
